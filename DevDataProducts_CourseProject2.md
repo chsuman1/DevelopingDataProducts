@@ -3,7 +3,8 @@ Data Products: Project
 author: Coursera Student
 date: Tuesday, November 18, 2014
 
-Central Limit Theorem & Law of Large Numbers
+Central Limit Theorem & Law of Large Numbers; 
+RStudio Presentation
 
 Central Limit Theorem
 ========================================================
