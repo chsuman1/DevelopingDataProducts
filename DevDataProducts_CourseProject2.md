@@ -31,7 +31,7 @@ meanOfSimExpMeans = mean(simulatedExponentialMeans)
 
 Central Limit Theorem - Plot
 ========================================================
-For 10 simulations, notice that the plot is not normal. 
+For 10 simulations, notice that the plot is not close to normal. 
 
 
 ![plot of chunk unnamed-chunk-3](DevDataProducts_CourseProject2-figure/unnamed-chunk-3-1.png) 
